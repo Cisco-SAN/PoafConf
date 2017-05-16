@@ -1,0 +1,285 @@
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1']
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1']
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': 'Disable', 'timez': 'IST', 'switchip': '10.105.185.148', 'clockvar': '12-hours', 'switchpass': 'nbv_12345', 'switchgw': '10.105.185.1', 'switchmask': '255.255.255.0', 'switchname': 'TIANSHAN-2', 'licfilepath': 'licencename', 'minvar': '2', 'telnetvar': 'Disable', 'hrvar': '1'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Opens a help file on UI for users to follow steps to use the tool
+Lines read are 
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': 'Disable', 'timez': '', 'switchip': 'fsaf', 'clockvar': '--Select Format--', 'switchpass': 'nbv_12345', 'switchgw': 'dsfsa', 'switchmask': 'asfdsa', 'switchname': 'tianshan', 'licfilepath': 'licensename', 'minvar': 'Min', 'telnetvar': 'Enable', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': 'Disable', 'timez': '', 'switchip': '1', 'clockvar': '12-hours', 'switchpass': 'hjgjh', 'switchgw': '3', 'switchmask': '2', 'switchname': 'khk', 'licfilepath': 'licencefile', 'minvar': 'Min', 'telnetvar': 'Enable', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': 'Disable', 'timez': '', 'switchip': 'qfdgs', 'clockvar': '--Select Format--', 'switchpass': 'qfdsgds', 'switchgw': 'sag', 'switchmask': 'dfgfdsg', 'switchname': 'fdgds', 'licfilepath': 'qdsgfs', 'minvar': 'Min', 'telnetvar': 'Enable', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': 'dsgfds', 'clockvar': '--Select Format--', 'switchpass': 'dsgf', 'switchgw': 'gfds', 'switchmask': 'gdsf', 'switchname': 'sadf', 'licfilepath': 'dsgfsa', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': 'dsgfds', 'clockvar': '--Select Format--', 'switchpass': 'dsgf', 'switchgw': 'gfds', 'switchmask': 'gdsf', 'switchname': 'sadf', 'licfilepath': 'dsgfsa', 'minvar': 'Min', 'telnetvar': 'Disable', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': 'dsgfsa', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': '', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Opens a help file on UI for users to follow steps to use the tool
+Lines read are 
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Hey this command does nothing
+Opens a help file on UI for users to follow steps to use the tool
+Lines read are 
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+platform selected variable is1
+platform selected variable is0
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': 'Enable', 'timez': 'IST', 'switchip': '1.1.1.1', 'clockvar': '12-hours', 'switchpass': 'nbv_12345', 'switchgw': '3.3.3.3', 'switchmask': '2.2.2.2', 'switchname': 'tianshan-2', 'licfilepath': 'newlicense.lic', 'minvar': '3', 'telnetvar': 'Enable', 'hrvar': '3'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': '--Select--', 'timez': '', 'switchip': '', 'clockvar': '--Select Format--', 'switchpass': '', 'switchgw': '', 'switchmask': '', 'switchname': '', 'licfilepath': 'fsafd', 'minvar': 'Min', 'telnetvar': '--Select--', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf
+--starting logging--
+platformlist contents read are 
+['--Select--', 'M9100', 'M9300', 'M9700', 'M9250']
+versionlist contents read are 
+['--Select--', '6.2.15', '7.3.0.D1.1', '7.3.0.DY.1', '7.3.1.DY.1']
+Processing form details..
+Now creating config file 
+{'httpvar': 'Enable', 'timez': 'IST', 'switchip': '1.1.1.1', 'clockvar': '12-hours', 'switchpass': 'nbv_12345', 'switchgw': '3.3.3.3', 'switchmask': '2.2.2.2', 'switchname': 'tianshan', 'licfilepath': 'license.lic', 'minvar': '3', 'telnetvar': 'Enable', 'hrvar': 'Hr'}
+Going to update the Tcl script 
+current path is /home/osboxes/Documents/PoafConf/basefiles/poap_script.tcl  /home/osboxes/Documents/PoafConf

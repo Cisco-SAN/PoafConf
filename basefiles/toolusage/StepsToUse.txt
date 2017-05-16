@@ -1,0 +1,35 @@
+Download the zip package from github
+
+Windows:
+  1. Unzip the folder
+  2. Run the .bat file
+  3. Fill the required fields on the form
+  4. If you don't get a platform/nxosver click the check box and fill in the text field beside it.
+     Once you enter text in text box this will get updated in the respective files for future use.
+  5. Provide the license file name in the box(if you wish to install the license)
+  6. Telnet, clock, http server etc are optional fields you may need
+  7. After adding all the details press Submit
+  8. A config file and a tickle script will be generated in the folder toDir
+  9. copy all the files from 'toDir' to USB
+ 10. copy the license file to USB
+ 11. copy the switch images for the platform and version selected on the UI
+ 12. insert USB to switch
+ 13. do a 'write erase' then 'reload'
+ 14. the switch boots up with the new image and the license also gets installed
+
+Linux:
+  1. Unzip the folder
+  2. Run the .sh file
+  3. Fill the required fields on the form
+  4. If you don't get a platform/nxosver click the check box and fill in the text field beside it.
+     Once you enter text in text box this will get updated in the respective files for future use.
+  5. Provide the license file name in the box(if you wish to install the license)
+  6. Telnet, clock, http server etc are optional fields you may need
+  7. After adding all the details press Submit
+  8. A config file and a tickle script will be generated in the folder toDir
+  9. copy all the files from 'toDir' to USB
+ 10. copy the license file to USB
+ 11. copy the switch images for the platform and version selected on the UI
+ 12. insert USB to switch
+ 13. do a 'write erase' then 'reload'
+ 14. the switch boots up with the new image and the license also gets installed

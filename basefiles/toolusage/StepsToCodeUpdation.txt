@@ -1,0 +1,11 @@
+  The main class is PoapHome
+  The UI part is using Tkinter library available with python for user controls  
+
+  The initialize() method creates the menu bar and calls the method addIndexPage() which generates the UI home page.
+
+  The method addIndexPage() adds the logo on top and the textbox, checkbox etc controls on the home page.This also reads the two config files nxosversions.config & platforms.config and fills the Platform and Nxosversion dropdowns on UI.The submit button calls the process_details() method.
+
+  The process_details() method stores all the values received from UI.Creates the config file with the information by calling createConfFile().Then it updates the tickle file by calling method createNewTclFile().Then it checks if on UI the checkbox for Platform/Nxosver is selected and updates the respective file by calling method writeToFile()
+
+  The openHelpFile( ) method reads contents from a text file "Readme.txt" and displays in a new window
+
