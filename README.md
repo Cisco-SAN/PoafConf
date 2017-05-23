@@ -1,6 +1,6 @@
-Poap Config 
+Poap Config Tool 
 
-   Tool Version : 0.1  
+   Version : 0.1  
    
    Created Date : 20 Feb 2017 
    
