@@ -10,7 +10,9 @@ You may choose to type text in the boxes instead of selecting from drop down men
 
 From the SO verify the serial number entered is valid
 
-Provide the name of license fileProvide the switch IP address , IP gateway and IP netmask
+Provide the name of license fileP
+
+rovide the switch IP address , IP gateway and IP netmask
 
 Fill the optional boxes if needed
 
